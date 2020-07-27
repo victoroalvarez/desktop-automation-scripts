@@ -4,3 +4,6 @@ These scripts can be executed by keyboard combinations on i3wm or other window m
 
 ## Python
 * Bullets - Add starts to plain-text list on clipboard.
+
+## References
+* [https://www.cyberciti.biz/faq/linux-unix-appleosx-bsd-rsync-copy-hidden-dot-files/](https://www.cyberciti.biz/faq/linux-unix-appleosx-bsd-rsync-copy-hidden-dot-files/)
