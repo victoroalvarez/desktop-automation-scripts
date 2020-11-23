@@ -1,5 +1,5 @@
-# Linux Desktop Automation Scripts
-Short Bash and Python scripts for desktop automation.
+# Scripts
+Short Bash and Python scripts for automation.
 These scripts can be executed by keyboard combinations on i3wm or other window managers.
 
 ## Python
