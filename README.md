@@ -1,9 +1,13 @@
 # Scripts
-Short Bash and Python scripts for automation.
-These scripts can be executed by keyboard combinations on i3wm or other window managers.
-
-## Python
+Collection of Bash, BAT, Powershell and Python scripts for automation.
+Some of these scripts can be executed by keyboard combinations on i3wm or other window managers.
+## Scripts list
+### Python
 * bullets - Add starts to plain-text list on clipboard.
-
-## Bash
+### Bash
 * myscreen - Configure external monitor on Debian Linux.
+### Windows BAT and Powershell
+* time-sync - Syncs time after dualbooting from other OSs.
+* wireless-adb - Setups wireless Android ADB.
+## Changelog
+* December 16, 2020 - Add Windows BAT and Powershell scripts.
