@@ -3,7 +3,7 @@ Collection of Bash, BAT, Powershell and Python scripts for automation.
 Some of these scripts can be executed by keyboard combinations on i3wm or other window managers.
 ## Scripts list
 ### Python
-* bullets - Add starts to plain-text list on clipboard.
+* bullets - Add stars to plain-text list on clipboard.
 ### Bash
 * myscreen - Configure external monitor on Debian Linux.
 ### Windows BAT and Powershell
